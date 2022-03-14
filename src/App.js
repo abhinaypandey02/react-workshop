@@ -5,7 +5,7 @@ function App() {
   console.log("Render App")
   return (
     <>
-      Counter
+      <h1>Counter</h1>
       <CounterHooks initialCount={0} />
     </>
   )
